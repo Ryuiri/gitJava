@@ -1,5 +1,1 @@
-const saveman=21;
-
-
-
-let sigo=2;
+console.log('Script Feito');
